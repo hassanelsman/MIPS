@@ -33,8 +33,7 @@ on Cyclone® IV FPGA device.
 
 --------------------------------------------------
 
-![program1 (2)](https://user-images.githubusercontent.com/111699435/185966807-cecbb4f4-0f1e-4861-90c0-1a4a5c4acd0d.jpg)
-
+![P1](https://user-images.githubusercontent.com/57576607/187049864-f360a926-5f60-48db-8faf-71d2dc0e4218.PNG)
 
 #### program2:  Factorial of "7"
 --------------------------------------------------
