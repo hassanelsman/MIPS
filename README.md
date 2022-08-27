@@ -39,16 +39,14 @@ on Cyclone® IV FPGA device.
 --------------------------------------------------
 
 
-![program2 (2)](https://user-images.githubusercontent.com/111699435/185966516-deff59b7-0649-4d5f-b88f-d959e6834993.png)
-
-
+![P2](https://user-images.githubusercontent.com/57576607/187049905-a6b3056f-2a7c-4db4-b8e3-6c251f4c0afc.PNG)
 
 
 #### program3:  Fibonacci sequence program
 
 --------------------------------------------------
+![P3](https://user-images.githubusercontent.com/57576607/187049900-1b815575-4a91-4682-b615-20140fb9bc4c.jpeg)
 
-![program3 (2)](https://user-images.githubusercontent.com/111699435/185966274-121c9666-b98d-4c1b-b896-8f7b5b233fa4.png)
 -----------------------------------------------------------------------------
 
 
